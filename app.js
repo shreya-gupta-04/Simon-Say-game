@@ -74,8 +74,6 @@ function checkans(idx)
         {
             document.querySelector("body").style.backgroundColor="white";   
         },150);
-        // score.push(`${level}`);
-        // console.log(score);
         reset();
        }
 }
